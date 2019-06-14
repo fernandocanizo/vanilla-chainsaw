@@ -1,0 +1,23 @@
+{
+  "name": "vanilla-chainsaw",
+  "version": "1.0.0",
+  "description": "Some vanilla Javascript functions with no connection or order yet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cswcl/vanilla-chainsaw.git"
+  },
+  "keywords": [
+    "toolbox",
+    "library"
+  ],
+  "author": "Fernando L. Canizo <fernandocanizo@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cswcl/vanilla-chainsaw/issues"
+  },
+  "homepage": "https://github.com/cswcl/vanilla-chainsaw#readme"
+}
