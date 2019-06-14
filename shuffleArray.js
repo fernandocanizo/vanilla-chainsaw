@@ -2,6 +2,7 @@
 
 // Randomly shuffle an array
 // https://stackoverflow.com/a/2450976/1293256
+// Fisher-Yates (aka Knuth) Shuffle algorithm
 
 const shuffleArray = (array) => {
   const arrayCopy = [ ... array ];
