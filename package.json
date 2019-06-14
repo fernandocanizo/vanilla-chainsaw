@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/cswcl/vanilla-chainsaw/issues"
   },
-  "homepage": "https://github.com/cswcl/vanilla-chainsaw#readme"
+  "homepage": "https://github.com/cswcl/vanilla-chainsaw#readme",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
 }
